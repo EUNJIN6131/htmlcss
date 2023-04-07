@@ -1,5 +1,5 @@
 # K-digital 3기 FrontEnd 수업
-## https://github.com/EUNJIN6131
+## https://github.com/EUNJIN6131/htmlcss
 
 + 23.04.06 : CSS 연습
 + 23.04.05 : HTML 및 Git 연습
