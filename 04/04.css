@@ -1,0 +1,9 @@
+.c1 {
+    display : flex;
+    align-items: center;
+
+}
+
+.c1 div {
+    width: 30%;
+}
