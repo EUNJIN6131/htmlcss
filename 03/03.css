@@ -10,7 +10,7 @@
     align-items: center;
     width: 100px;
     height: 100px;
-    background-color: aliceblue;
+    background-color: white
 }
 
 .iconsp > span {
@@ -33,6 +33,7 @@ nav {
     opacity: 0.6;
     display: flex;
     justify-content: center;
+    align-items: center;
 }
 
 nav a {
@@ -96,20 +97,6 @@ article {
 #a1 img {
     width: 100%;
 }
-
-/* #a2 {
-    /* display: flex;
-    justify-content: center; 
-    display: flex;
-    justify-content: center;
-    align-items: right;
-} */
-
-/* #a2 li {
-    justify-content: center;
-    align-items: right;
-    flex-direction: column;
-} */
     
 ul {
     margin: 20px;
