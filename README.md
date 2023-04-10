@@ -1,5 +1,5 @@
 # K-digital 3기 FrontEnd 수업
-## https://github.com/EUNJIN6131/htmlcss
+https://eunjin6131.github.io/htmlcss/
 
 + 23.04.07 : PICO.CSS 실습
 + 23.04.06 : CSS 연습
